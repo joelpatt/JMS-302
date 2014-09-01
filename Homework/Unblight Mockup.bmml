@@ -1,0 +1,63 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="957" measuredH="597" mockupW="957" mockupH="588">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="159" y="87" w="746" h="-1" measuredW="708" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <text>Fighting%20Blight%2C%20Restoring%20Communities</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="941" y="97" w="-1" h="394" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="418" y="348" w="-1" h="-1" measuredW="300" measuredH="200" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/14753036777_9fbe2db8df_z-300.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="411" y="548" w="315" h="-1" measuredW="766" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>http%3A//sunlightfoundation.com/blog/2014/08/21/unblight-unconference-tech-convening-tackling-housing-blight-and-property-data/</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tooltip" x="296" y="177" w="526" h="129" measuredW="530" measuredH="0" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>%22Blight%20is%20not%20limited%20regionally%20or%20determined%20by%20socioeconomic%20status%20and%20can%20plague%20cities%20big%20and%20small.%22%20%0A-Sunlight%20Foundation</text>
+        <tooltipDirection>SW</tooltipDirection>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="449" y="321" w="220" h="-1" measuredW="138" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13369344</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Click%20to%20Join%20project</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="9" w="957" h="588" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="365" y="145" w="-1" h="-1" measuredW="39" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Link" x="500" y="145" w="-1" h="-1" measuredW="28" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="624" y="145" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contact%20Us</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
