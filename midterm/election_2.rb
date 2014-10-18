@@ -1,5 +1,20 @@
 def gets_results (candidate)
-    puts "Please enter the last name of your chosen candidate. Type 'done' once you make your selection."
+    puts "Please enter the amount of votes for Michelle Nunn. Type 'done' once you make your selection."
+        total_results = 0
+    while true 
+    results = gets.chomp
+        if results.downcase = "" 
+        else results.downcase == 'done'
+     
+        end
+        total_results += results
+    end
+        return total_results
+end
+
+
+
+puts "Please enter the amount of votes for Sonny Perdue. Type 'done' once you make your selection."
         total_results = 0
     while true 
     results = gets.chomp
@@ -29,4 +44,5 @@ candidate = 'purdue'
     
 end
 
+puts gets_results
 puts " #{candidate} is winning with #{percentage}% of the votes."
