@@ -8,4 +8,4 @@ while true
 end
 
 
-puts "{Candidate} is winning with {vote_percent}% of the votes."
+puts "{Candidate} is winning with #{vote_percent} of the votes."
