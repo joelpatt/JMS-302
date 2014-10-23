@@ -1,0 +1,19 @@
+div.box {
+    height:
+    width:
+    background-color: # ;}
+p {
+    height : 80 %
+    width : 50 %
+    background-color : #0077dd ; }
+
+p.two {
+    border-width: 2px; }
+p.three  {border-style:dotted; }
+p.four {border-style:groove; }
+p.five {border-style:ridge ; }
+p.six { border-style: outset ; }
+p.seven { border-color :transparent; }
+p.eight {padding: 14px; }
+p.nine { margin : 12px; }
+p.ten
